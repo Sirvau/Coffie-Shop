@@ -1,2 +1,2 @@
-# Rainydays
-Online shop selling rain jackets (School project)
+# Coffie shop
+Online coffie shop for coffie lovers (School project)
